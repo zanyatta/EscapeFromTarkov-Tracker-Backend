@@ -1,0 +1,12 @@
+{
+  "name": "escapefromtarkov-tracker-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack": "pkg -t node18-win-x64 -C GZip index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL v3"
+}
